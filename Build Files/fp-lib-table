@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AA SAO Design Prepped for Shen")(type "KiCad")(uri "$(KIPRJMOD)/AA Design THT Modify.pretty")(options "")(descr ""))
+)
