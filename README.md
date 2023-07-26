@@ -14,3 +14,7 @@ This is the DEFCON E-Computer SAO Repository for DEFCON 31. We hope you enjoy th
 
 
 ![image](https://github.com/NilbinSec/E-Computer-SAO-DC31/assets/85370905/3001616b-537a-442c-a886-7a6d731d45e2)
+
+
+
+Special Thanks to 2PAC and Anxious Analyst for their efforts designing and developing this year's SAO!
